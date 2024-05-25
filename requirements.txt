@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+discord-py-interactions
+discord.py==1.7.3
+discord-py-slash-command==1.1.2
+pynacl
